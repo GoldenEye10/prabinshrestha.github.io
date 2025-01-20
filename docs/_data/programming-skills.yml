@@ -9,3 +9,11 @@
 - name: Python
   percentage: 70
   color: secondary
+
+  name: Java
+  percentage: 70
+  color: secondary
+
+  name: Powershell
+  percentage: 70
+  color: secondary
